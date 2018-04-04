@@ -1,11 +1,11 @@
 ---
 layout: horizontal
-permalink: logo/
+permalink: toepassingen
 published: true
-title: Logo intro
+title: toepassingen intro
 ---
 
-# Sampoorna Yoga Logoooo
+# Tytoepassingens;, d;,
 
 ## Consectetur adipiscing elit.
 

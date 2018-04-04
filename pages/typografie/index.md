@@ -1,11 +1,11 @@
 ---
 layout: horizontal
-permalink: logo/
+permalink: typografie
 published: true
-title: Logo intro
+title: Typo intro
 ---
 
-# Sampoorna Yoga Logoooo
+# Typografiekljdsfhsdkljhfqs;,d
 
 ## Consectetur adipiscing elit.
 

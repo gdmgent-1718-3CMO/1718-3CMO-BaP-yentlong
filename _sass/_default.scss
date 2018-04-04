@@ -1,44 +1,57 @@
 // default-styling
 
 body {
-    font-family: $myfont-family-base;
-    font-weight: $font-weight-base;
-    font-size: $font-size-base;
+    font-family:'Quicksand', serif;
+    font-weight:lighter;
+    font-size: 16px;
     line-height: $lineheight-base;
     background-color: $body-bg;
-    color: $body-color;
+    color: black;
+    
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: $myfont-family-title;
-    font-weight: $font-weight-bold;
+    font-family: 'Quicksand', serif;
+    font-weight: $font-weight-base;
 }
 
 h1 {
-    font-weight: $font-weight-light;
+    font-weight: bold;
     font-size: 4rem;
-    color: $color-grey-2;
+    color: rgb(0, 181, 210);
 }
 h2 {
-    font-weight: $font-weight-light;
-    font-size: 2rem;
+    font-weight: bold;
+    font-size: 25px;
     margin: 2rem 0 1rem;
+    text-transform: uppercase;
 }
-h3, h4, h5, h6 {
+h3{
+    font-weight: bold;
+    font-size: 16px;
+    margin: 2rem 0 1rem;
+    text-transform: uppercase;
+
+}
+h4, h5, h6 {
     font-size: 1rem;
     margin: 2rem 0 0;
 }
 a {
+    font-family: Quicksand;
+    font-weight: bold;
+    text-transform: uppercase;
     text-decoration: none;
-    color: $body-link;
-    border-bottom: dotted 1px $body-link;
+    color: rgb(0, 181, 210);
+    border-bottom: dotted 1px black;
+   
     &:hover{
-        color: $body-link;
+        color: black;
         text-decoration: none;
-        border-bottom: solid 1px $body-link;
+        border-bottom: solid 1px black;
     }
     &:active{
-        background-color: $body-link;
+        background-color: black;
         color: $color-white;
     }
     &:focus{}

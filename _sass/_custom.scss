@@ -16,7 +16,7 @@ html {
 body {
     position: relative;
     margin: 0;
-    padding-bottom: 6rem;
+    padding-bottom: 0;
     min-height: 100%;
   }
 
@@ -28,7 +28,7 @@ body {
 }
 
 footer {
-    background-color: $mycolor-2;
+    background-color:rgb(108, 184, 212);
     color: $color-white;
     a {
         color: $color-white;
