@@ -5,7 +5,7 @@ published: true
 title: Kleurgebruik
 ---
 
-# Hoe gebruik je een kleur juistnenfe
+# Kleurgebruik
 
 ## Consectetur adipiscing elit.
 

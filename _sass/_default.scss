@@ -7,7 +7,22 @@ body {
     line-height: $lineheight-base;
     background-color: $body-bg;
     color: black;
+
     
+}
+.download {
+    color: rgb(0, 181, 210);
+    border: none;
+    &:hover{
+        color:gray;
+        text-decoration: none;
+        border-bottom: solid 3px rgb(0, 181, 210);
+    }
+}
+p{
+
+    margin-left: 50px;
+    margin-bottom: 50px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,11 +34,12 @@ h1 {
     font-weight: bold;
     font-size: 4rem;
     color: rgb(0, 181, 210);
+    margin-bottom: 20px;
 }
 h2 {
     font-weight: bold;
-    font-size: 25px;
-    margin: 2rem 0 1rem;
+    font-size: 20px;
+    margin: 2rem 0 1rem 2px;
     text-transform: uppercase;
 }
 h3{
@@ -37,6 +53,13 @@ h4, h5, h6 {
     font-size: 1rem;
     margin: 2rem 0 0;
 }
+
+
+.imglogo
+{
+    margin-left: 70px;
+
+}
 a {
     font-family: Quicksand;
     font-weight: bold;
@@ -44,6 +67,8 @@ a {
     text-decoration: none;
     color: rgb(0, 181, 210);
     border-bottom: dotted 1px black;
+    margin-right: 30px;
+    margin-bottom: 100px;
    
     &:hover{
         color: black;
@@ -55,6 +80,7 @@ a {
         color: $color-white;
     }
     &:focus{}
+
 }
 blockquote {
     padding-left: 24px;
