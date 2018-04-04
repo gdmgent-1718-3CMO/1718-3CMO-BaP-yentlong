@@ -11,13 +11,15 @@ title: logos
 ## Waar staat het logo voor?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
+<br>
+
 
 ## Beeld en woordmerk
-
 <div class="row">
-  <div class="col-4"><img class="afbeelding" src="images/voorbeelden/logo3.png"  alt="Responsive image"></div>
+  
   <div class="col-8"> 
-  <br>Het logo bestaat uit twee voeten en twee handen. het logo imiteert een pose uit de yoga. Je moet het voorstellen als iemand die neerzit met de benen naar voor gestrekt en die zijn of haar voeten vastneemt. </div>
+  <p>Het logo bestaat uit twee voeten en twee handen. het logo imiteert een pose uit de yoga. Je moet het voorstellen als iemand die neerzit met de benen naar voor gestrekt en die zijn of haar voeten vastneemt. </p></div>
+  <div class="col-4"><img class="afbeeldinglogo" src="images/voorbeelden/logo3.png"  alt="Responsive image"></div>
 </div>
 
 
@@ -31,14 +33,24 @@ Het logo wordt  in de originele huisstijlkleuren gebruikt. Wordt het logo gebrui
 <div class="row">
   <div class="col"></div>
   <div class="col"></div>
-  <div class="col"><img src="images/voorbeelden/LogoPosNeg.png" class="afbeelding" alt="Responsive image"></div>
+  <div class="col"><img src="images/voorbeelden/LogoPosNeg.png"  alt="Responsive image"></div>
   <div class="col"></div>
+</div>
+<br>
+
+## Minimale witruimte
+<div class="row">
+  
+  <div class="col-8"> 
+  <p>Het logo bestaat uit twee voeten en twee handen. het logo imiteert een pose uit de yoga. Je moet het voorstellen als iemand die neerzit met de benen naar voor gestrekt en die zijn of haar voeten vastneemt. 
+  <br>
+  <br>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.</p></div>
+  <div class="col-4"><img class="afbeeldinglogo" src="images/voorbeelden/LogoWitruimte.png"  alt="Responsive image"></div>
 </div>
 
 
-## Minimale witruimte
-
-## Minimale grootte
+<h2> Minimale grootte </h2>
 
 <a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
 

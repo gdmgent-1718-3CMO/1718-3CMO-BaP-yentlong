@@ -25,7 +25,7 @@ p{
     margin-bottom: 50px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6{
     font-family: 'Quicksand', serif;
     font-weight: $font-weight-base;
 }
@@ -49,15 +49,22 @@ h3{
     text-transform: uppercase;
 
 }
-h4, h5, h6 {
+h4, h5, h6{
     font-size: 1rem;
     margin: 2rem 0 0;
 }
 
 
+.afbeelding{
+    width: 150%;
+    margin-left: 50px;
+}
+
+
 .imglogo
 {
-    margin-left: 70px;
+    margin-left: 90px;
+
 
 }
 
