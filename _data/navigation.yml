@@ -4,13 +4,13 @@
 - name: Home
   description: Home
   # folder: pages/
-  permalink: /index
+  permalink: index
   # fa-icon: icon-info
 
 - name: Logo
-  description: Logo
-  # folder: pages/logo/
-  permalink: /logo
+  description: Logos
+  # folder: pages/logos/logos
+  permalink: /logos
   # fa-icon: icon-graduation-cap
 
 - name: Kleur
@@ -26,13 +26,17 @@
   # fa-icon: icon-info
 
 - name: Typografie
-  description: Stijlgids voor de typofraide
-  # folder: pages/typografie/
-  permalink: /typografie
+  description: Typografisch
+  # folder: pages/typografisch
+  permalink: /typografisch
   # fa-icon: icon-info
+
 
 - name: Toepassingen
   description: Stijlgids voor de typofraide
   # folder: pages/toepassingen/
   permalink: /toepassingen
   # fa-icon: icon-info
+  
+
+
