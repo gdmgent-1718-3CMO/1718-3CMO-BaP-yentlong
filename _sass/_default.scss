@@ -50,8 +50,10 @@ h3{
 
 }
 h4, h5, h6{
-    font-size: 1rem;
-    margin: 2rem 0 0;
+    font-size:16px;
+    margin: 2rem 0 1rem;
+    line-height: 23px;
+  
 }
 
 
@@ -63,11 +65,32 @@ h4, h5, h6{
 
 .imglogo
 {
-    margin-left: 90px;
+    margin-left: 100px;
 
 
 }
 
+.nav-item{
+    margin-top:45px;
+ 
+}
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+
+    color:rgb(0, 181, 210);
+    border-bottom:solid;}
+
+
+.navbar-light .navbar-nav .nav-link{
+    color:black;
+}
+
+
+.achtergrond{
+
+    background-color: rgb(0, 181, 210);
+}
 
 a {
     font-family: Quicksand;
@@ -146,3 +169,4 @@ button, a.btn {
 input[type=text], textarea {
 
 }
+
