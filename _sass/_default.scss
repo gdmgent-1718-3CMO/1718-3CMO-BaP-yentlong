@@ -11,12 +11,12 @@ body {
     
 }
 .download {
-    color: rgb(0, 181, 210);
+    color: rgb(108, 184, 212);
     border: none;
     &:hover{
         color:gray;
         text-decoration: none;
-        border-bottom: solid 3px rgb(0, 181, 210);
+        border-bottom: solid 3px rgb(108, 184, 212);
     }
 }
 p{
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6{
 h1 {
     font-weight: bold;
     font-size: 4rem;
-    color: rgb(0, 181, 210);
+    color: rgb(108, 184, 212);
     margin-bottom: 20px;
 }
 h2 {
@@ -49,10 +49,25 @@ h3{
     text-transform: uppercase;
 
 }
-h4, h5, h6{
+h4, h6{
     font-size:16px;
     margin: 2rem 0 1rem;
     line-height: 23px;
+  
+}
+
+h5{
+    font-size:16px;
+    line-height: 23px;
+    margin-left:-150px;
+   
+  
+}
+
+h7{
+    font-size:16px;
+    line-height: 23px;
+    font-weight: bolder;
   
 }
 
@@ -65,9 +80,21 @@ h4, h5, h6{
 
 .imglogo
 {
-    margin-left: 100px;
+    margin-left: 60px;
 
 
+}
+
+.afbeeldingPos{
+    width:800px;
+  
+}
+
+.afbNIET{
+
+width: 500px;
+margin-top: -50px;
+margin-left: -60px;
 }
 
 .nav-item{
@@ -78,7 +105,7 @@ h4, h5, h6{
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
 
-    color:rgb(0, 181, 210);
+    color:rgb(108, 184, 212);
     border-bottom:solid;}
 
 
@@ -89,7 +116,7 @@ h4, h5, h6{
 
 .achtergrond{
 
-    background-color: rgb(0, 181, 210);
+    background-color: rgb(108, 184, 212);
 }
 
 a {
@@ -97,7 +124,7 @@ a {
     font-weight: bold;
     text-transform: uppercase;
     text-decoration: none;
-    color: rgb(0, 181, 210);
+    color: rgb(108, 184, 212);
     border-bottom: dotted 1px black;
     margin-right: 30px;
     margin-bottom: 100px;
@@ -145,13 +172,14 @@ main ol {
       padding-left: 25px;
       text-indent: -25px;
       margin-bottom: 0.5rem;
+      margin-left: 50px;
       &:before {
         counter-increment: i;
         content: counter(i);    
         padding: 3px 6px;
         margin-right: 5px;
         border-radius: 5px;
-        background-color: $mycolor-5;
+        background-color: rgb(108, 184, 212);
         color: $color-white;
         font-family: $myfont-family-title;
         font-weight: $font-weight-bold;
