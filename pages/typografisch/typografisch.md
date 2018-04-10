@@ -27,7 +27,7 @@ Het primaire font is Quicksand, afkomstig van Google Fonts. Dit lettertype is ge
 
 <div class="row">
     <div class="col-4">
-        <img class="afbeelding" src="images/voorbeelden/Quicksand.png"  alt="Responsive image">
+        <img class="afbeelding" src="images/voorbeelden/Robot.png"  alt="Responsive image">
     </div>
          <div class="col-8"></div>
 </div>
