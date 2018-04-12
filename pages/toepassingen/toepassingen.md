@@ -9,7 +9,7 @@ title: toepassingen intro
 <br>Sampoorna Yoga </h1>
 <p>Bekijk hieronder de toepassingen en de bijhorende technische data van Sampoorna Yoga vzw. De toepassingen zzijn voorzien van een link om de zip-file te downloaden of om de de linken te bekijken.</p>
 
-<h2> Folder I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
+<h2> Folder I <a class="download" href="images/voorbeelden/1718_Longueville_Yentl_BaP_Folder map.zip" target="_blank">download</a></h2>
 
 <p>De folder wordt gebruikt om mensen warm te maken. Laat mij het illustreren via een voorbeeld. Een persoon gaat naar de yoga les en denkt dat deze les wel iets interessant zou zijn voor haar vriendin. Op het einde van de les kan ze een folder meenemen om deze dan later te geven aan een vriendin. De folder bevat informatie over Sampoorna Yoga zelf, hoe een les eruitziet, over wie deze lessen geeft en adres-en contactgegevens.  </p>
 
@@ -17,7 +17,10 @@ title: toepassingen intro
 	<h4><u>Font:</u> Quicksand
     <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
     <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
-    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small></h4>
+    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
+		 <br><u>Recto:</u> Heeft de blauwe achtergrond
+		  <br><u>Verso:</u> Heeft de witte achtergrond
+		 </h4>
 </blockquote>
 
 <h3>tekst</h3>
@@ -129,7 +132,7 @@ title: toepassingen intro
 			<td>Verfstrook</td>
 			<td>/</td>
 			<td>/</td>
-            <td> De verfstrook is achter de afbeelding geplaatst. Eén uiteinde achter kader, eén uiteinde voor het kader. 
+            <td> De verfstrook is achter de afbeelding geplaatst. Eén uiteinde achter kader, één uiteinde voor het kader. 
             </td>
 		  </tr>
           <tr>
@@ -173,9 +176,168 @@ Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa prae
 
 <a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
 
-<h2> Flyer I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
-    
-Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
+<h2> Flyer I <a class="download" href="images/voorbeelden/1718_Longueville_Yentl_BaP_Flyer map.zip" target="_blank">download</a></h2>
+<p>De folder wordt als promotionele folder gebruikt. Deze kan uitgedeeld worden in het openbaar om reclame te maken voor Sampoorna Yoga en een kort overzicht te geven van wat de yogastijl is en wat de prijzen en data zijn.  </p>
+
+
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  148mm x 210mm 
+    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 118mm x 180mm)</small>
+    <br><u>Uitlijning tekst:</u> rechts <small>(recto)</small>, links <small>(verso, uitzondering op de quote)</small>
+		 <br><u>Recto:</u> Heeft de blauwe achtergrond
+		  <br><u>Verso:</u> Heeft de witte achtergrond
+		 </h4>
+</blockquote>
+
+<h3>tekst</h3>
+<table class="table">
+		<thead>
+		  <tr>
+			<th scope="col">#</th>
+			<th scope="col">Omschrijving</th>
+            <th scope="col">Stijl</th>
+			<th scope="col">Tekengrootte</th>
+			<th scope="col">Regelafstand</th>
+            <th scope="col">Extra</th>
+		  </tr>
+		</thead>
+		<tbody>
+		  <tr>
+			<th scope="row">1</th>
+			<td>Titel</td>
+			<td>Bold</td>
+			<td> 30 pt</td>
+      <td> 32 pt</td>
+      <td> </td>
+		  </tr>
+		  <tr>
+			<th scope="row">2</th>
+			<td>Ondertitel</td>
+			<td>Medium</td>
+			<td> 20 pt</td>
+            <td> 25 pt</td>
+            <td> 
+            </td>
+		  </tr>
+		  <tr>
+			<th scope="row">3</th>
+			<td>Subtitel</td>
+			<td>Regular</td>
+			<td>18 pt</td>
+            <td>24 pt</td>
+            <td> 
+            </td>
+		  </tr>
+          <tr>
+			<th scope="row">4</th>
+			<td>Quote</td>
+			<td>Bold</td>
+			<td>13 pt</td>
+            <td>16 pt</td>
+            <td> De aanhalingstekens worden in het blauw van de huisstijl gezet.<br> Wordt geplaatst in kapitalen.<br>
+						Is gecentreerd geplaatst.</td>
+		  </tr>
+          <tr>
+			<th scope="row">5</th>
+			<td>Bodytekst Inleiding</td>
+			<td>Bold</td>
+			<td>12 pt</td>
+            <td>14 pt</td>
+            <td>Wordt geplaatst in het blauw van de huisstijlgids.<br> Wordt op 65 mm van de bovenste rand geplaatst en vult de gehele zetspiegel volgens de breedte.<br>De tekst wordt in het blauw van de huisstijl gezet.  </td>
+		  </tr>
+			      <tr>
+			<th scope="row">6</th>
+			<td>Subtitel Bodytekst</td>
+			<td>Medium</td>
+			<td>10 pt</td>
+            <td>12 pt</td>
+            <td>Links inspringen: 10mm <br>Ruimte voor: 10mm<br>Wordt geplaatst in kapitalen </td>
+		  </tr>
+			      <tr>
+			<th scope="row">7</th>
+			<td>Bodytekst </td>
+			<td>Regular</td>
+			<td>10 pt</td>
+            <td>12 pt</td>
+            <td>Links inspringen: 10mm <br>Ruimte voor: 5mm<br></td>
+		  </tr>
+			      <tr>
+			<th scope="row">8</th>
+			<td>Gegevens</td>
+			<td>Regular</td>
+			<td>10 pt</td>
+            <td>12 pt</td>
+            <td>Links inspringen: 20mm <br>Ruimte voor: 5mm<br>De tekst wordt in het blauw van de huisstijl gezet.
+						</td>
+		  </tr>
+		</tbody>
+	  </table>
+
+<div class="row">
+  <div class="col-6">
+  <p><img src="{{ '/images/voorbeelden/Flyer.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos" ></p>
+  </div>
+</div>
+
+<h3>objecten</h3>
+<table class="table">
+		<thead>
+		  <tr>
+			<th scope="col">#</th>
+			<th scope="col">Omschrijving</th>
+            <th scope="col">Grootte (mm)</th>
+			<th scope="col">Lijndikte</th>
+            <th scope="col">Extra</th>
+		  </tr>
+		</thead>
+		<tbody>
+		  <tr>
+			<th scope="row">1</th>
+			<td>Logo</td>
+			<td>15,6x25</td>
+			<td>/</td>
+            <td>Het logo wordt in de linkerbovenhoek van de zetspiegel geplaatst. 
+</td>
+		  </tr>
+		  <tr>
+			<th scope="row">2</th>
+			<td>Verfstrook</td>
+			<td>/</td>
+			<td>/</td>
+            <td>De verfstrook is achter de afbeelding/tekst geplaatst. Eén uiteinde achter kader, één uiteinde voor het kader.
+            </td>
+		  </tr>
+		  <tr>
+			<th scope="row">3</th>
+			<td>Kader</td>
+			<td>80x140</td>
+			<td>10 pt</td>
+      <td>Lijn op <u>midden</u> uitgelijnd.<br>Het kader wordt in het midden geplaatst, uitgelijnd op de onderkant van de zetspiegel. <small>(51,5mm van de bovenkant van het blad)</small></td>
+		  </tr>
+          <tr>
+			<th scope="row">4</th>
+			<td>Afbeelding</td>
+			<td>/</td>
+			<td>/</td>
+            <td> De afbeeldingen worden in het zwart-wit geplaatst.</td>
+		  </tr>
+          <tr>
+			<th scope="row">5</th>
+			<td>Kader</td>
+			<td>118x36</td>
+			<td>10 pt</td>
+            <td>Lijn op <u>buitenkant</u> uitgelijnd.<br>Wordt in het midden geplaatst en start aan de zetspiegel.</td>
+		  </tr>
+          <tr>
+			<th scope="row">6</th>
+			<td>Iconen</td>
+			<td>5 mm breed</td>
+			<td>/</td>
+            <td>Staan verticaal uitgelijnd op de bodytekst en staan horizontaal uitgelijnd op de gegevens.<br> Worden in het blauw van de huisstijl gezet.</td>
+		  </tr>
+		</tbody>
+	  </table>
 
 <h2> Factuur I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
 
