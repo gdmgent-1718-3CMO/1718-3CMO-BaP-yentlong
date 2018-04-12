@@ -138,3 +138,15 @@ Hieronder staan  12 regels waar er altijd aan voldaan moet worden. Het is belang
     <img src="{{ '/images/voorbeelden/NIET.png' | relative_url }}" alt="Responsive image" class="afbNIET">
   </div>
 </div>
+
+
+
+<h2> Download het logo</h2> 
+<div class="row">
+  <div class="col-12">
+De download van het logo bevat een Illustrator bestand, pdf, SVG, eps en png bestanden. <br>
+  <br><a href="{{ '/images/voorbeelden/LogoSampoornaYoga.zip' | relative_url }}">download logo</a>
+  </div>
+  </div>
+<br>
+<br>

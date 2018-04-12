@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6{
 h1 {
     font-weight: bold;
     font-size: 4rem;
-    color: rgb(108, 184, 212);
+    color: $mycolor-1;
     margin-bottom: 20px;
 }
 h2 {
@@ -49,12 +49,25 @@ h3{
     text-transform: uppercase;
 
 }
-h4, h6{
+h6{
     font-size:16px;
     margin: 2rem 0 1rem;
     line-height: 23px;
   
 }
+
+h4{ 
+    font-size:16px;
+    margin: 2rem 0 1rem;
+    line-height: 30px;
+    font-weight: bold;
+    padding-left: 25px;
+    font-size:16px;
+    color: $mycolor-2;
+    
+
+}
+
 
 h5{
     font-size:16px;
@@ -71,6 +84,11 @@ h7{
   
 }
 
+
+.FloGri{
+
+    width: 105%;
+}
 
 .afbeelding{
     width: 150%;
@@ -142,8 +160,9 @@ a {
 
 }
 blockquote {
-    padding-left: 24px;
-    border-left: 2px solid $mycolor-5;
+   
+    border-left: 2px solid $mycolor-2;
+    margin-left: 50px;
 }
 
 // ongeordende lijstjes met een ander symbool of kleur

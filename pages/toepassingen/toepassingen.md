@@ -11,7 +11,160 @@ title: toepassingen intro
 
 <h2> Folder I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
+<p>De folder wordt gebruikt om mensen warm te maken. Laat mij het illustreren via een voorbeeld. Een persoon gaat naar de yoga les en denkt dat deze les wel iets interessant zou zijn voor haar vriendin. Op het einde van de les kan ze een folder meenemen om deze dan later te geven aan een vriendin. De folder bevat informatie over Sampoorna Yoga zelf, hoe een les eruitziet, over wie deze lessen geeft en adres-en contactgegevens.  </p>
+
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
+    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
+    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small></h4>
+</blockquote>
+
+<h3>tekst</h3>
+<table class="table">
+		<thead>
+		  <tr>
+			<th scope="col">#</th>
+			<th scope="col">Omschrijving</th>
+            <th scope="col">Stijl</th>
+			<th scope="col">Tekengrootte</th>
+			<th scope="col">Regelafstand</th>
+            <th scope="col">Extra</th>
+		  </tr>
+		</thead>
+		<tbody>
+		  <tr>
+			<th scope="row">1</th>
+			<td>Titel</td>
+			<td>Medium</td>
+			<td> 12 pt</td>
+            <td> 12 pt</td>
+            <td> De titels worden steeds in kapitalen gezet.</td>
+		  </tr>
+		  <tr>
+			<th scope="row">2</th>
+			<td>Bodytekst</td>
+			<td>Regular</td>
+			<td> 10 pt</td>
+            <td> 12 pt</td>
+            <td> 
+            Links inspringen: 10mm <br>Ruimte voor: 10mm <br>
+            Om woorden te benadrukken worden ze: 
+            <br>- in <u>'medium'</u> gezet op blauwe achtergrond
+           <br>- in <u>'medium' en blauw</u> gezet op witte achtergrond
+            </td>
+		  </tr>
+		  <tr>
+			<th scope="row">3</th>
+			<td>Bijschrift</td>
+			<td>Regular</td>
+			<td>10 pt</td>
+            <td>12 pt</td>
+            <td> 
+            Links inspringen: 10mm <br>Ruimte voor: 5mm <br>Het tekstkader <small>(titel en bijschrift)</small> is 5mm verwijderd van midden van pagina en loopt tot de rechtse en onderste marge of tot de linker en bovenste marge; het tekstkader is dus 55mm breed.  <br>
+            </td>
+		  </tr>
+          <tr>
+			<th scope="row">4</th>
+			<td>Quote</td>
+			<td>Bold</td>
+			<td>18 pt</td>
+            <td>20 pt</td>
+            <td> De aahalingstekens worden in het blauw van de huisstijl gezet.<br> Er kan gebruik gemaakt worden van een ampersand (&) of het woord 'and'.</td>
+		  </tr>
+          <tr>
+			<th scope="row">5</th>
+			<td>Gegevens</td>
+			<td>Light</td>
+			<td>10 pt</td>
+            <td>12 pt</td>
+            <td>Links inspringen: 10mm <br>Het tekstkader <small>(titel en gegevens)</small> staat links, rechts, boven onder 5 mm van de rand van het witte kader.<br>Indien er  meer gegevens zijn, kunnen de kaders ook langer gemaakt worden, maar <u>niet breder!</u> Het kader blijft dus een breedte hebben van <u>51,5 mm</u> </td>
+		  </tr>
+		</tbody>
+	  </table>
+
+<br>
+
+<div class="row">
+  <div class="col-6">
+  <p><img src="{{ '/images/voorbeelden/FolderTechnisch.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos" ></p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-6">
+  <p><img src="{{ '/images/voorbeelden/FolderTechnisch2.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos" ></p>
+  </div>
+</div>
+
+<h3>objecten</h3>
+<table class="table">
+		<thead>
+		  <tr>
+			<th scope="col">#</th>
+			<th scope="col">Omschrijving</th>
+            <th scope="col">Grootte (mm)</th>
+			<th scope="col">Lijndikte</th>
+            <th scope="col">Extra</th>
+		  </tr>
+		</thead>
+		<tbody>
+		  <tr>
+			<th scope="row">1</th>
+			<td>Kader</td>
+			<td>130x130</td>
+			<td> 10 pt</td>
+            <td>Het kader wordt in het midden geplaatst. <small>(kader komt rondom 6,5 mm van de rand van het blad)</small> <br>Lijn op <u>buitenkant</u> uitlijnen.
+</td>
+		  </tr>
+		  <tr>
+			<th scope="row">2</th>
+			<td>Kader</td>
+			<td>60x120</td>
+			<td> 10 pt</td>
+            <td>Plaatsen tegen marges en tot aan de helft van de pagina.<br>Lijn op <u>binnenkant</u> uitlijnen.
+            </td>
+		  </tr>
+		  <tr>
+			<th scope="row">3</th>
+			<td>Verfstrook</td>
+			<td>/</td>
+			<td>/</td>
+            <td> De verfstrook is achter de afbeelding geplaatst. Eén uiteinde achter kader, eén uiteinde voor het kader. 
+            </td>
+		  </tr>
+          <tr>
+			<th scope="row">4</th>
+			<td>Afbeelding</td>
+			<td>/</td>
+			<td>/</td>
+            <td> De afbeeldingen worden in het zwart-wit geplaatst.</td>
+		  </tr>
+          <tr>
+			<th scope="row">5</th>
+			<td>Kader</td>
+			<td>68,5x68,5</td>
+			<td>10 pt</td>
+            <td>Lijn op <u>binnenkant</u> uitgelijnd.<br>
+Het kader links wordt geplaats op 6,5 mm van de linker-en bovenrand. <br>Het kader rechts wordt geplaats op 6,5 mm van de rechter-en onderrand.<br>Indien er  meer gegevens zijn, kunnen de kaders ook langer gemaakt worden, maar <u>niet breder!</u> Het kader blijft dus een breedte hebben van <u>68,5 mm</u></td>
+		  </tr>
+          <tr>
+			<th scope="row">6</th>
+			<td>Afbeelding</td>
+			<td>61,5x61,5</td>
+			<td>/</td>
+            <td>De afbeeldingen zijn optioneel, zoals eerder gezegd, als er meer gegevens op moeten komen, is het dus niet mogelijk om een afbeelding te plaatsen.<br> De afbeeldingen worden in het zwart-wit geplaatst.</td>
+		  </tr>
+          <tr>
+			<th scope="row">7</th>
+			<td>Logo</td>
+			<td>63x100</td>
+			<td>/</td>
+            <td>Het logo is in het midden geplaatst.</td>
+		  </tr>
+		</tbody>
+	  </table>
+
+
 
 <h2> Website I <a class="download" href="https://xd.adobe.com/view/d2f2846e-4414-46f9-baf4-99504a775420?fullscreen" target="_blank"> link</a></h2>
 
