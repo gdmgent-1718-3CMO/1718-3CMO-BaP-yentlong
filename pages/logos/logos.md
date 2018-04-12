@@ -2,7 +2,7 @@
 layout: horizontal
 permalink: logos
 published: true
-title: logos
+title: Logo
 ---
 
 

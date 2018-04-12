@@ -2,7 +2,7 @@
 layout: horizontal
 permalink: typografisch
 published: true
-title: typografisch
+title: Typografie
 ---
 
 

@@ -2,7 +2,7 @@
 layout: horizontal
 permalink: kleur
 published: true
-title: Kleurgebruik
+title: Kleur
 ---
 
 # Kleurgebruik

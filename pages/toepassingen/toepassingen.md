@@ -2,16 +2,24 @@
 layout: horizontal
 permalink: toepassingen
 published: true
-title: toepassingen intro
+title: Toepassingen
 ---
 
 <h1>Toepassingen 
-<br>Sampoorna Yoga </h1>
+</h1>
 <p>Bekijk hieronder de toepassingen en de bijhorende technische data van Sampoorna Yoga vzw. De toepassingen zzijn voorzien van een link om de zip-file te downloaden of om de de linken te bekijken.</p>
 
 <h2> Folder I <a class="download" href="images/voorbeelden/1718_Longueville_Yentl_BaP_Folder map.zip" target="_blank">download</a></h2>
 
+<div class="row">
+  <div class="col-6">
+ <p><img src="{{ '/images/voorbeelden/MockupFolder.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
+</div>
+  <div class="col-6">
 <p>De folder wordt gebruikt om mensen warm te maken. Laat mij het illustreren via een voorbeeld. Een persoon gaat naar de yoga les en denkt dat deze les wel iets interessant zou zijn voor haar vriendin. Op het einde van de les kan ze een folder meenemen om deze dan later te geven aan een vriendin. De folder bevat informatie over Sampoorna Yoga zelf, hoe een les eruitziet, over wie deze lessen geeft en adres-en contactgegevens.  </p>
+</div>
+
+</div>
 
 <blockquote>
 	<h4><u>Font:</u> Quicksand
@@ -22,6 +30,8 @@ title: toepassingen intro
 		  <br><u>Verso:</u> Heeft de witte achtergrond
 		 </h4>
 </blockquote>
+
+<br>
 
 <h3>tekst</h3>
 <table class="table">
@@ -176,8 +186,26 @@ Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa prae
 
 <a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
 
+
+
+
+
+
 <h2> Flyer I <a class="download" href="images/voorbeelden/1718_Longueville_Yentl_BaP_Flyer map.zip" target="_blank">download</a></h2>
-<p>De folder wordt als promotionele folder gebruikt. Deze kan uitgedeeld worden in het openbaar om reclame te maken voor Sampoorna Yoga en een kort overzicht te geven van wat de yogastijl is en wat de prijzen en data zijn.  </p>
+
+
+
+<div class="row">
+  <div class="col-6">
+ <p><img src="{{ '/images/voorbeelden/MockupFolder.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
+</div>
+  <div class="col-6">
+<p>De flyer wordt als promotionele flyer gebruikt. Deze kan uitgedeeld worden in het openbaar om reclame te maken voor Sampoorna Yoga. De flyer bevat een beknopte inhoud over hoe de yogastijl bij Sampoorna Yoga is en het geeft wat informatie over de lessen zoals wat je moet aandoen en wat je wel of niet moet meebrengen, waar je het zal vinden en de data van de lessen en wat de prijzen zijn. </p>
+</div>
+
+</div>
+
+
 
 
 <blockquote>
@@ -189,7 +217,7 @@ Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa prae
 		  <br><u>Verso:</u> Heeft de witte achtergrond
 		 </h4>
 </blockquote>
-
+<br>
 <h3>tekst</h3>
 <table class="table">
 		<thead>
@@ -273,7 +301,7 @@ Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa prae
 		  </tr>
 		</tbody>
 	  </table>
-
+<br>
 <div class="row">
   <div class="col-6">
   <p><img src="{{ '/images/voorbeelden/Flyer.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos" ></p>
