@@ -203,7 +203,7 @@ Ook hier lijnen we  de bodytekst 10 mm links uit.
 </div>
 </div>
 
-
+<br>
 
 <h2> Nieuwsbrief I <a class="download" href="https://us15.admin.mailchimp.com/templates/share?id=72399614_fd197298865afdb8008a_us15" target="_blank">download</a></h2>
 
@@ -233,7 +233,7 @@ De nieuwsbrief is gemaakt via Mailchimp
 
 <div class="row">
   <div class="col-6">
- <p><img src="{{ '/images/voorbeelden/MockupFolder.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
+ <p><img src="{{ '/images/voorbeelden/FlyerMockup.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
 </div>
   <div class="col-6">
 <p>De flyer wordt als promotionele flyer gebruikt. Deze kan uitgedeeld worden in het openbaar om reclame te maken voor Sampoorna Yoga. De flyer bevat een beknopte inhoud over hoe de yogastijl bij Sampoorna Yoga is en het geeft wat informatie over de lessen zoals wat je moet aandoen en wat je wel of niet moet meebrengen, waar je het zal vinden en de data van de lessen en wat de prijzen zijn. </p>
@@ -403,48 +403,68 @@ De nieuwsbrief is gemaakt via Mailchimp
 		</tbody>
 	  </table>
 
-<h2> Factuur I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
+<h2> Factuur I <a class="download" href="https://drive.google.com/drive/folders/1qFVjncxdreMTFwJeV4C657Ws89QHUKae" target="_blank">download</a></h2>
 
+De factuur is opgesteld met het font Roboto. Dit is een officieel document dat nood had aan een minder speels font zoals Quicksand. 
 <blockquote>
-	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
-    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
-    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
-		 <br><u>Recto:</u> Heeft de blauwe achtergrond
-		  <br><u>Verso:</u> Heeft de witte achtergrond
+	<h4><u>Font:</u> Roboto
+    <br><u>Formaat:</u>  210mm x 297mm
+    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 180mm x 267mm)</small>
+   <br><u>Uitlijning tekst:</u> zowel links als rechts <small>(getallen en gegevens Sampoorna Yoga)</small>
 		 </h4>
 </blockquote>
-
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
-<h2> Banner I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
-
-
-<mark>Primum Theophrasti, Strato, physicum se voluit;</mark> Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Eadem nunc mea adversum te oratio est. Sed vos squalidius, illorum vides quam niteat oratio. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Quorum sine causa fieri nihil putandum est. Philosophi autem in suis lectulis plerumque moriuntur. Atqui reperies, inquit, in hoc quidem pertinacem; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?
+<br>
+<h2> Banner I <a class="download" href="https://drive.google.com/drive/folders/1k0lFnXNLKL5FezRfFFS4Ib8PlfCj888S" target="_blank">download</a></h2>
+De banner is gemaakt om op te hangen aan het fietshokje net voor het huis. Zo is hte mogelijk dat voorbijgangers in één oogopslag waar ze terecht moeten zijn om meer informatie te vinden over Sampoorna Yoga. Doordat het logo er groot opstaat en de banner een blauwe achtergrond heeft, valt dit op en zal er dus naar gekeken worden.
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  2000 mm x 1000 mm 
+    <br><u>Marges:</u> 100 mm <small>(een zetspiegel van 1800 mm x 800 mm)</small>
+    <br><u>Uitlijning tekst:</u> gecentreerd
+		 <br><u>Logo</u> 600 mm hoog
+		 </h4>
+</blockquote>
+<br>
 
 <h2> Omslagbanner Facebook I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
 <blockquote>
 	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
-    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
-    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
-		 <br><u>Recto:</u> Heeft de blauwe achtergrond
+    <br><u>Formaat:</u>  2000 mm x 1000 mm 
+    <br><u>Marges:</u> 100 mm <small>(een zetspiegel van 1800 mm x 800 mm)</small>
+    <br><u>Uitlijning tekst:</u> gecentreerd
+		 <br><u>Logo</u> 600 mm hoog
 		  <br><u>Verso:</u> Heeft de witte achtergrond
 		 </h4>
 </blockquote>
-
+<br>
 <h2> Sticker I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
+Stickers zijn altijd een leuk element om aan zaken toe te voegen. Deze stickers zijn om twee redenen ontworpen. de eerste reden is omdat ze leuk zijn en de tweede reden is omdat ze kunnen gebruiktt worden om het inpakpaier waarin de t-shirts worden ingepakt mee toe te plakken.
+
 <blockquote>
 	<h4><u>Font:</u> Quicksand
     <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
     <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
-    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
-		 <br><u>Recto:</u> Heeft de blauwe achtergrond
-		  <br><u>Verso:</u> Heeft de witte achtergrond
+    <br><u>Uitlijning tekst:</u> zowel links als rechts <small>(getallen en gegevens Sampoorna Yoga)</small>
 		 </h4>
 </blockquote>
+<br>
 
+<h2> T-shirt I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
+De t-shirts zijn  niet enkel gemaakt voor de leden van Sampoorna Yoga, maar voor iedereen die deze t-shirt wil. De t-shirts zijn simpel gehouden zodat zowel mannen als vrouwen ze kunnen dragen. Daarom is er ook voor gekozen om het standaard lettertype van de huisstijl te gebruiken. Er zijn blauwe t-shirts met witte tekst, witte t-shirts met blauwe tekst en grijze t-shirts met witte tekst.
+
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  300mm x 300mm <small>(Dit is het formaat van de tekstkader)</small>
+    <br><u>Uitlijning tekst:</u> gecentreerd
+		 </h4>
+</blockquote>
+<br>
+
+<div class="row">
+  <div class="col-6">
+ <p><img src="{{ '/images/voorbeelden/Shirt-Mockup1.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
+</div>
+  <div class="col-6">
+ <p><img src="{{ '/images/voorbeelden/Shirt-Mockup.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
+</div>
+</div>
