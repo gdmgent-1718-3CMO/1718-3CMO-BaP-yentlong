@@ -181,33 +181,51 @@ Het kader links wordt geplaats op 6,5 mm van de linker-en bovenrand. <br>Het kad
 
 <h2> Website I <a class="download" href="https://xd.adobe.com/view/d2f2846e-4414-46f9-baf4-99504a775420?fullscreen" target="_blank"> link</a></h2>
 
-Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Duae sunt enim res quoque, ne tu verba solum putes. Illi enim inter se dissentiunt.
+De website bevat al de info die er te vinden in over Sampoorna Yoga. Deze bevat info over de lessen en prijzen, over welke weekends er zijn, waar, wanneer en hoeveel ze kosten. Het bevat ook afbeeldingen van wat je zou kunnen verwachten als je je inschrijft voor een weekend. Als klikt op de foto's kan je de foto's uitvergroot zien en kan je doorklikken om de volgende afbeeldingen te bekijken.
+Ook hier lijnen we  de bodytekst 10 mm links uit.
 <blockquote>
 	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
-    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
-    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
-		 <br><u>Recto:</u> Heeft de blauwe achtergrond
-		  <br><u>Verso:</u> Heeft de witte achtergrond
 		 </h4>
 </blockquote>
+<br>
 
-<h2> Nieuwsbrief I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
 
-<a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
+
+<div class="row">
+<div class="col-4">
+<a href="images/voorbeelden/Mockup1.png" data-lightbox="mijnreeks" data-title="Mockup1Website"><img src="{{ '/images/voorbeelden/Mockup1.png' | relative_url }}" alt="MockupWebsite" class="afbeeldinglight" ></a>
+</div>
+<div class="col-4">
+<a href="images/voorbeelden/Mockup2.png" data-lightbox="mijnreeks" data-title="Mockup2Website"><img src="{{ '/images/voorbeelden/Mockup2.png' | relative_url }}" alt="MockupWebsite" class="afbeeldinglight" ></a>
+</div>
+<div class="col-4">
+<a href="images/voorbeelden/Mockup3.png" data-lightbox="mijnreeks" data-title="Mockup3Website"><img src="{{ '/images/voorbeelden/Mockup3.png' | relative_url }}" alt="MockupWebsite" class="afbeeldinglight" ></a>
+</div>
+</div>
+
+
+
+<h2> Nieuwsbrief I <a class="download" href="https://us15.admin.mailchimp.com/templates/share?id=72399614_fd197298865afdb8008a_us15" target="_blank">download</a></h2>
+
+De nieuwsbrief moet de mensen warm maken voor de yoga. De nieuwsbrief bevat informatie over de weekends en over de lessen op woensdag. Bij de informatie over de weekends kan men doorklikken om verder te lezen op de website van Sampoorna Yoga.
+De nieuwsbrief is gemaakt via Mailchimp
 
 
 <blockquote>
-	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
-    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
-    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
-		 <br><u>Recto:</u> Heeft de blauwe achtergrond
-		  <br><u>Verso:</u> Heeft de witte achtergrond
+	<h4><u>Font:</u> Roboto
 		 </h4>
 </blockquote>
+<br>
 
+<div class="row">
+  <div class="col-6">
+ <p><img src="{{ '/images/voorbeelden/Nieuwsbrief1.png' | relative_url }}" alt="Afbeelding nieuwsbrief" class="w-75" ></p>
+</div>
+  <div class="col-6">
+ <p><img src="{{ '/images/voorbeelden/Nieuwsbrief.png' | relative_url }}" alt="Afbeelding nieuwsbrief" class="w-75" ></p>
+</div>
 
+</div>
 
 <h2> Flyer I <a class="download" href="https://drive.google.com/drive/folders/1TIXy2yDzuj3iNrLc3-LpxkPfw0Bkoeq3 " target="_blank">download</a></h2>
 
