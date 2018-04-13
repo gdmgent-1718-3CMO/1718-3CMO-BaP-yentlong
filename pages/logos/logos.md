@@ -34,7 +34,7 @@ title: Logo
 <h2> Postief  vs. negatief </h2> 
 <div class="row">
   <div class="col-12">
-    <p>Het logo wordt  in de originele huisstijlkleuren gebruikt. Wordt het logo gebruikt op een donkere of semi donkere achtergrond. Dan opteert men om het logo in negatief te gebruiken. Men kan het logo ook negatief gebruiken als men deze op een afbeelding plaatst. Positief kan men gebruiken als er bijvoorbeeld gedrukt moet worden in zwart wit of gewoon in het kleur van de huisstijl. 
+    <p>Het logo wordt in de originele huisstijlkleuren gebruikt. Wordt het logo gebruikt op een donkere of semi-donkere achtergrond; dan opteert men om het logo in negatief te gebruiken. Men kan het logo ook negatief gebruiken als men deze op een afbeelding plaatst. Positief kan men gebruiken als er bijvoorbeeld gedrukt moet worden in zwart wit of gewoon in het kleur van de huisstijl. 
     </p> 
   </div>
  </div>
@@ -114,15 +114,15 @@ title: Logo
 ## Wat mag je niet doen?
 
 <p>Om het logo herkenbaar en leesbaar te laten moet men zich aan bepaalde regels houden omtrent het logo. 
-Hieronder staan  12 regels waar er altijd aan voldaan moet worden. Het is belangrijk dat deze richtlijnen gevolgd worden om het logo herkenbaar, leesbaar en correct te gebruiken. </p>
+Hieronder staan 12 regels waar er altijd aan voldaan moet worden. Het is belangrijk dat deze richtlijnen gevolgd worden om het logo herkenbaar, leesbaar en correct te gebruiken. </p>
 
 <div class="row">
   <div class="col-6"> 
    <ol>
 		  <li>Vervorm het logo niet</li>
 		  <li>Roteer het logo niet</li>
-		  <li>Verander het loog nooit van kleur</li>
-      <li>PLaats nooit een outline rond het logo</li>
+		  <li>Verander het logo nooit van kleur</li>
+      <li>Plaats nooit een outline rond het logo</li>
 		  <li>Zorg voor voldoende contrast tussen logo en achtergrond</li>
 		  <li>Plaats geen effecten onder het logo</li>
 		  <li>Spiegel het logo niet</li>

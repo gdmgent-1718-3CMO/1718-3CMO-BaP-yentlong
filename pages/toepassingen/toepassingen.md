@@ -7,8 +7,10 @@ title: Toepassingen
 
 <h1>Toepassingen 
 </h1>
-<p>Bekijk hieronder de toepassingen en de bijhorende technische data van Sampoorna Yoga vzw. De toepassingen zzijn voorzien van een link om de zip-file te downloaden of om de de linken te bekijken.</p>
+<p>Bekijk hieronder de toepassingen en de bijhorende technische data van Sampoorna Yoga vzw. De toepassingen zijn voorzien van een link om de zip-file te downloaden of om de linken te bekijken.<br> Als je niet kan wachten of je hebt geen zin om door de volledige pagina te scrollen om de bestanden te downloaden; 
 
+<a class="download" href="https://drive.google.com/drive/folders/1teI5Xi5HrjXSQuVtbEhxq38qvhAUvEAA" target="_blank">download dan nu alle bestanden.</a></p>
+<br>
 <h2> Folder I <a class="download" href="https://drive.google.com/drive/folders/10mc3GpsxDaI3f0N1vfbmKV2DkDoM6zvw" target="_blank">download</a></h2>
 
 <div class="row">
@@ -83,7 +85,7 @@ title: Toepassingen
 			<td>Bold</td>
 			<td>18 pt</td>
             <td>20 pt</td>
-            <td> De aahalingstekens worden in het blauw van de huisstijl gezet.<br> Er kan gebruik gemaakt worden van een ampersand (&) of het woord 'and'.</td>
+            <td> De aanhalingstekens worden in het blauw van de huisstijl gezet.<br> Er kan gebruik gemaakt worden van een ampersand (&) of het woord 'and'.</td>
 		  </tr>
           <tr>
 			<th scope="row">5</th>
@@ -177,7 +179,7 @@ Het kader links wordt geplaats op 6,5 mm van de linker-en bovenrand. <br>Het kad
 		</tbody>
 	  </table>
 
-
+<br>
 
 <h2> Website I <a class="download" href="https://xd.adobe.com/view/d2f2846e-4414-46f9-baf4-99504a775420?fullscreen" target="_blank"> link</a></h2>
 
@@ -208,7 +210,7 @@ Ook hier lijnen we  de bodytekst 10 mm links uit.
 <h2> Nieuwsbrief I <a class="download" href="https://us15.admin.mailchimp.com/templates/share?id=72399614_fd197298865afdb8008a_us15" target="_blank">download</a></h2>
 
 De nieuwsbrief moet de mensen warm maken voor de yoga. De nieuwsbrief bevat informatie over de weekends en over de lessen op woensdag. Bij de informatie over de weekends kan men doorklikken om verder te lezen op de website van Sampoorna Yoga.
-De nieuwsbrief is gemaakt via Mailchimp
+De nieuwsbrief is gemaakt via Mailchimp.
 
 
 <blockquote>
@@ -402,10 +404,10 @@ De nieuwsbrief is gemaakt via Mailchimp
 		  </tr>
 		</tbody>
 	  </table>
-
+<br>
 <h2> Factuur I <a class="download" href="https://drive.google.com/drive/folders/1qFVjncxdreMTFwJeV4C657Ws89QHUKae" target="_blank">download</a></h2>
 
-De factuur is opgesteld met het font Roboto. Dit is een officieel document dat nood had aan een minder speels font zoals Quicksand. 
+De factuur is opgesteld met het font Roboto. Dit is een officieel document dat nood heeft aan een minder speels font zoals Quicksand. 
 <blockquote>
 	<h4><u>Font:</u> Roboto
     <br><u>Formaat:</u>  210 mm x 297 mm
@@ -415,7 +417,7 @@ De factuur is opgesteld met het font Roboto. Dit is een officieel document dat n
 </blockquote>
 <br>
 <h2> Banner I <a class="download" href="https://drive.google.com/drive/folders/1k0lFnXNLKL5FezRfFFS4Ib8PlfCj888S" target="_blank">download</a></h2>
-De banner is gemaakt om op te hangen aan het fietshokje net voor het huis. Zo is hte mogelijk dat voorbijgangers in één oogopslag waar ze terecht moeten zijn om meer informatie te vinden over Sampoorna Yoga. Doordat het logo er groot opstaat en de banner een blauwe achtergrond heeft, valt dit op en zal er dus naar gekeken worden.
+De banner is gemaakt om op te hangen aan het fietshokje net voor het huis. Zo is het mogelijk dat voorbijgangers in één oogopslag kunnen zien waar ze terecht moeten zijn om meer informatie te vinden over Sampoorna Yoga. Doordat het logo er groot opstaat en de banner een blauwe achtergrond heeft, valt dit op en zal er dus naar gekeken worden.
 <blockquote>
 	<h4><u>Font:</u> Quicksand
     <br><u>Formaat:</u>  2000 mm x 1000 mm 
@@ -448,7 +450,7 @@ De banner is gemaakt om op te hangen aan het fietshokje net voor het huis. Zo is
 </blockquote>
 <br>
 <h2> Sticker I <a class="download" href="https://drive.google.com/drive/folders/1BOS5ofubZuHPID907sQfYzfXlik0BHI9" target="_blank">download</a></h2>
-Stickers zijn altijd een leuk element om aan zaken toe te voegen. Deze stickers zijn om twee redenen ontworpen. de eerste reden is omdat ze leuk zijn en de tweede reden is omdat ze kunnen gebruiktt worden om het inpakpapier waarin de t-shirts worden ingepakt mee toe te plakken.
+Stickers zijn altijd een leuk element om aan zaken toe te voegen. Deze stickers zijn om twee redenen ontworpen. De eerste reden is omdat ze leuk zijn en de tweede reden is omdat ze kunnen gebruikt worden om het inpakpapier waarin de t-shirts worden ingepakt mee toe te plakken.
 
 <blockquote>
 	<h4><u>Font:</u> Quicksand

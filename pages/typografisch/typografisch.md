@@ -10,7 +10,7 @@ title: Typografie
 
 <h2> Primair font I <a class="download" href="https://fonts.google.com/specimen/Quicksand" target="_blank"> download</a></h2>
 
-Het primaire font is Quicksand, afkomstig van Google Fonts. Dit lettertype is gekozen omdat dit een beetje de yoga weerspiegelt. Het is niet hard maar heeft een zacht uiterlijk. Net als bij yoga waar je je kunt ontspannen. Dit letterype werd doorheen de hele branding gebruikt. Voor doorlopende teksten bij bijvoorbeeld flyers en brochures werd de lettertypestijl 'Regular' gebruikt. Gebruik 'Medium' om dingen te benadrukken en voor titels en 'Light' voor contactgegevens en dergelijke.
+Het primaire font is Quicksand, afkomstig van Google Fonts. Dit lettertype is gekozen omdat dit een beetje de yoga weerspiegelt. Het is niet hard maar heeft een zacht uiterlijk. Net als bij yoga waar je je kunt ontspannen. Dit lettertype word doorheen de hele branding gebruikt. Voor doorlopende teksten bij bijvoorbeeld flyers en folders word de lettertypestijl 'Regular' gebruikt. Gebruik 'Medium' om dingen te benadrukken en voor titels en 'Light' voor contactgegevens en dergelijke.
 
 <div class="row">
     <div class="col-4">
