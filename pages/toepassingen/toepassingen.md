@@ -9,7 +9,7 @@ title: Toepassingen
 </h1>
 <p>Bekijk hieronder de toepassingen en de bijhorende technische data van Sampoorna Yoga vzw. De toepassingen zzijn voorzien van een link om de zip-file te downloaden of om de de linken te bekijken.</p>
 
-<h2> Folder I <a class="download" href="images/voorbeelden/1718_Longueville_Yentl_BaP_Folder map.zip" target="_blank">download</a></h2>
+<h2> Folder I <a class="download" href="https://drive.google.com/drive/folders/10mc3GpsxDaI3f0N1vfbmKV2DkDoM6zvw" target="_blank">download</a></h2>
 
 <div class="row">
   <div class="col-6">
@@ -182,16 +182,34 @@ Het kader links wordt geplaats op 6,5 mm van de linker-en bovenrand. <br>Het kad
 <h2> Website I <a class="download" href="https://xd.adobe.com/view/d2f2846e-4414-46f9-baf4-99504a775420?fullscreen" target="_blank"> link</a></h2>
 
 Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Duae sunt enim res quoque, ne tu verba solum putes. Illi enim inter se dissentiunt.
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
+    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
+    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
+		 <br><u>Recto:</u> Heeft de blauwe achtergrond
+		  <br><u>Verso:</u> Heeft de witte achtergrond
+		 </h4>
+</blockquote>
+
 <h2> Nieuwsbrief I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
 
 <a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
 
 
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
+    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
+    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
+		 <br><u>Recto:</u> Heeft de blauwe achtergrond
+		  <br><u>Verso:</u> Heeft de witte achtergrond
+		 </h4>
+</blockquote>
 
 
 
-
-<h2> Flyer I <a class="download" href="images/voorbeelden/1718_Longueville_Yentl_BaP_Flyer map.zip" target="_blank">download</a></h2>
+<h2> Flyer I <a class="download" href="https://drive.google.com/drive/folders/1TIXy2yDzuj3iNrLc3-LpxkPfw0Bkoeq3 " target="_blank">download</a></h2>
 
 
 
@@ -369,6 +387,16 @@ Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa prae
 
 <h2> Factuur I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
 
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
+    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
+    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
+		 <br><u>Recto:</u> Heeft de blauwe achtergrond
+		  <br><u>Verso:</u> Heeft de witte achtergrond
+		 </h4>
+</blockquote>
+
 - Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
 - Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
 - Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
@@ -381,6 +409,24 @@ Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa prae
 <mark>Primum Theophrasti, Strato, physicum se voluit;</mark> Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Eadem nunc mea adversum te oratio est. Sed vos squalidius, illorum vides quam niteat oratio. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Quorum sine causa fieri nihil putandum est. Philosophi autem in suis lectulis plerumque moriuntur. Atqui reperies, inquit, in hoc quidem pertinacem; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?
 
 <h2> Omslagbanner Facebook I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
+    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
+    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
+		 <br><u>Recto:</u> Heeft de blauwe achtergrond
+		  <br><u>Verso:</u> Heeft de witte achtergrond
+		 </h4>
+</blockquote>
 
 <h2> Sticker I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
+    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
+    <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
+		 <br><u>Recto:</u> Heeft de blauwe achtergrond
+		  <br><u>Verso:</u> Heeft de witte achtergrond
+		 </h4>
+</blockquote>
 
