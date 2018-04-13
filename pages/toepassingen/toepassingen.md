@@ -459,12 +459,12 @@ Stickers zijn altijd een leuk element om aan zaken toe te voegen. Deze stickers 
 </blockquote>
 <br>
 
-<h2> T-shirt I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
+<h2> T-shirt I <a class="download" href="https://drive.google.com/drive/folders/1TpJBIeBCbvDU6j1eW2G37t1Qi1nH58qO" target="_blank">download</a></h2>
 De t-shirts zijn  niet enkel gemaakt voor de leden van Sampoorna Yoga, maar voor iedereen die deze t-shirt wil. De t-shirts zijn simpel gehouden zodat zowel mannen als vrouwen ze kunnen dragen. Daarom is er ook voor gekozen om het standaard lettertype van de huisstijl te gebruiken. Er zijn blauwe t-shirts met witte tekst, witte t-shirts met blauwe tekst en grijze t-shirts met witte tekst.
 
 <blockquote>
 	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  300 mm x 300 mm <small>(Dit is het formaat van de tekstkader)</small>
+    <br><u>Formaat:</u>  240 mm x 240 mm <small>(Dit is het formaat van de tekstkader)</small>
     <br><u>Uitlijning tekst:</u> gecentreerd
 		 </h4>
 </blockquote>
