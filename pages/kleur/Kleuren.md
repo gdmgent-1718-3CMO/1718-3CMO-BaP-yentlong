@@ -12,7 +12,7 @@ De kleuren van de huisstijl zijn gebasseerd op een aquareltekening. Deze kleuren
 
 <div class="row">
   <div class="col-6">
-  <p><img src="{{ '/images/voorbeelden/Kleurstudie.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos" ></p>
+  <p><img src="{{ '/images/voorbeelden/Kleurstudie.png' | relative_url }}" alt="Afbeelding Kleurstudie" class="afbeeldingPos" ></p>
   </div>
 </div>
 
@@ -23,7 +23,7 @@ De neutrale kleuren worden gebruikt voor teksten.
 
 <div class="row">
   <div class="col-6">
-  <p><img src="{{ '/images/voorbeelden/NEUTRAAL.png' | relative_url }}" alt="Responsive image" class="w-100"></p>
+  <p><img src="{{ '/images/voorbeelden/NEUTRAAL.png' | relative_url }}" alt="Afbeelding neutrale kleuren" class="w-100"></p>
   </div>
 </div>
 
@@ -34,6 +34,6 @@ Wil men een witte tekst op een lichtere achtergrond gebruiken dan kan met de wit
 
 <div class="row">
   <div class="col-6">
-  <p><img src="{{ '/images/voorbeelden/Speciaal.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos"></p>
+  <p><img src="{{ '/images/voorbeelden/Speciaal.png' | relative_url }}" alt="Afbeelding Speciaal geval" class="afbeeldingPos"></p>
   </div>
 </div>

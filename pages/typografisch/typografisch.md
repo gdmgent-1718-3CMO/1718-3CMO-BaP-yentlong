@@ -14,7 +14,7 @@ Het primaire font is Quicksand, afkomstig van Google Fonts. Dit lettertype is ge
 
 <div class="row">
     <div class="col-4">
-        <img class="afbeelding" src="images/voorbeelden/Quicksand.png"   alt="Responsive image">
+        <img class="afbeelding" src="images/voorbeelden/Quicksand.png"   alt="Font Quicksand">
     </div>
          <div class="col-8"></div>
 </div>
@@ -27,7 +27,7 @@ Het secundaire font is Roboto, ook afkomstig van Google Fonts. Dit lettertype wo
 
 <div class="row">
     <div class="col-4">
-        <img class="afbeelding" src="images/voorbeelden/Robot.png"  alt="Responsive image">
+        <img class="afbeelding" src="images/voorbeelden/Robot.png"  alt="Font Roboto">
     </div>
          <div class="col-8"></div>
 </div>

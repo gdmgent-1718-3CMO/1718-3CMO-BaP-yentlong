@@ -41,7 +41,7 @@ title: Logo
 
 <div class="row">
   <div class="col-6">
-  <p><img src="{{ '/images/voorbeelden/PosNeg.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos" ></p>
+  <p><img src="{{ '/images/voorbeelden/PosNeg.png' | relative_url }}" alt="Afbeelding Positief Negatief" class="afbeeldingPos" ></p>
   </div>
 </div>
 
@@ -51,7 +51,7 @@ title: Logo
 
 <div class="row ">
   <div class="col-8">
-    <p><img src="{{ '/images/voorbeelden/MinGrootte.png' | relative_url }}" alt="Responsive image" class="w-75"></p>
+    <p><img src="{{ '/images/voorbeelden/MinGrootte.png' | relative_url }}" alt="Afbeelding Minimale grootte" class="w-75"></p>
   </div>
   <div class="col-4">
     <h5> Het logo moet steeds leesbaar blijven op verschillen drukwerken. Daarom heeft het logo altijd een minimale grootte in functie van de grootte van het drukwerk. Bij de minimale grootte kijken we steeds naar de hoogte van het logo. 
@@ -104,7 +104,7 @@ title: Logo
   <div class="col-9"> 
   <p>Rondom het logo moet een minimale witruimte bestaan, ook wel 'vrije ruimte genoemd'. We bepalen de vrije ruimte met behulp van de letter S uit ons logo. De vrije ruimte is noodzakelijk voor een herkenbaar en leesbaar logo, respecteer dus de minimale ruimte. 
   <br>Hier wordt wel gezegd de <u>minimale</u> ruimte, het is dus toegestaan om meer wit rondom het logo te gebruiken. </p></div>
-  <div class="col-3"><img class="afbeeldinglogo" src="{{ '/images/voorbeelden/MinWit.png' | relative_url }}" alt="Responsive image" class="w-100">
+  <div class="col-3"><img class="afbeeldinglogo" src="{{ '/images/voorbeelden/MinWit.png' | relative_url }}" alt="Afbeelding Minimale witruimte" class="w-100">
   </div>
 </div>
 
@@ -135,7 +135,7 @@ Hieronder staan  12 regels waar er altijd aan voldaan moet worden. Het is belang
   </div>
   
   <div class="col-6">
-    <img src="{{ '/images/voorbeelden/NIET.png' | relative_url }}" alt="Responsive image" class="afbNIET">
+    <img src="{{ '/images/voorbeelden/NIET.png' | relative_url }}" alt="Afbeelding wat je niet mag doen" class="afbNIET">
   </div>
 </div>
 

@@ -13,7 +13,7 @@ title: Toepassingen
 
 <div class="row">
   <div class="col-6">
- <p><img src="{{ '/images/voorbeelden/MockupFolder.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
+ <p><img src="{{ '/images/voorbeelden/MockupFolder.png' | relative_url }}" alt="Mockup Folde" class="w-100" ></p>
 </div>
   <div class="col-6">
 <p>De folder wordt gebruikt om mensen warm te maken. Laat mij het illustreren via een voorbeeld. Een persoon gaat naar de yoga les en denkt dat deze les wel iets interessant zou zijn voor haar vriendin. Op het einde van de les kan ze een folder meenemen om deze dan later te geven aan een vriendin. De folder bevat informatie over Sampoorna Yoga zelf, hoe een les eruitziet, over wie deze lessen geeft en adres-en contactgegevens.  </p>
@@ -23,8 +23,8 @@ title: Toepassingen
 
 <blockquote>
 	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
-    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
+    <br><u>Formaat:</u>  150 mm x 150 mm <small>(gesloten)</small>   450 mm x 150 mm <small>(open)</small>
+    <br><u>Marges:</u> 15 mm <small>(een zetspiegel van 120 mm x 120 mm)</small>
     <br><u>Uitlijning tekst:</u> links <small>(uitzondering op de quotes)</small>
 		 <br><u>Recto:</u> Heeft de blauwe achtergrond
 		  <br><u>Verso:</u> Heeft de witte achtergrond
@@ -61,7 +61,7 @@ title: Toepassingen
 			<td> 10 pt</td>
             <td> 12 pt</td>
             <td> 
-            Links inspringen: 10mm <br>Ruimte voor: 10mm <br>
+            Links inspringen: 10 mm <br>Ruimte voor: 10 mm <br>
             Om woorden te benadrukken worden ze: 
             <br>- in <u>'medium'</u> gezet op blauwe achtergrond
            <br>- in <u>'medium' en blauw</u> gezet op witte achtergrond
@@ -74,7 +74,7 @@ title: Toepassingen
 			<td>10 pt</td>
             <td>12 pt</td>
             <td> 
-            Links inspringen: 10mm <br>Ruimte voor: 5mm <br>Het tekstkader <small>(titel en bijschrift)</small> is 5mm verwijderd van midden van pagina en loopt tot de rechtse en onderste marge of tot de linker en bovenste marge; het tekstkader is dus 55mm breed.  <br>
+            Links inspringen: 10 mm <br>Ruimte voor: 5 mm <br>Het tekstkader <small>(titel en bijschrift)</small> is 5 mm verwijderd van midden van pagina en loopt tot de rechtse en onderste marge of tot de linker en bovenste marge; het tekstkader is dus 55 mm breed.  <br>
             </td>
 		  </tr>
           <tr>
@@ -91,7 +91,7 @@ title: Toepassingen
 			<td>Light</td>
 			<td>10 pt</td>
             <td>12 pt</td>
-            <td>Links inspringen: 10mm <br>Het tekstkader <small>(titel en gegevens)</small> staat links, rechts, boven onder 5 mm van de rand van het witte kader.<br>Indien er  meer gegevens zijn, kunnen de kaders ook langer gemaakt worden, maar <u>niet breder!</u> Het kader blijft dus een breedte hebben van <u>51,5 mm</u> </td>
+            <td>Links inspringen: 10 mm <br>Het tekstkader <small>(titel en gegevens)</small> staat links, rechts, boven onder 5 mm van de rand van het witte kader.<br>Indien er  meer gegevens zijn, kunnen de kaders ook langer gemaakt worden, maar <u>niet breder!</u> Het kader blijft dus een breedte hebben van <u>51,5 mm</u> </td>
 		  </tr>
 		</tbody>
 	  </table>
@@ -100,12 +100,12 @@ title: Toepassingen
 
 <div class="row">
   <div class="col-6">
-  <p><img src="{{ '/images/voorbeelden/FolderTechnisch.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos" ></p>
+  <p><img src="{{ '/images/voorbeelden/FolderTechnisch.png' | relative_url }}" alt="Technische data folder" class="afbeeldingPos" ></p>
   </div>
 </div>
 <div class="row">
   <div class="col-6">
-  <p><img src="{{ '/images/voorbeelden/FolderTechnisch2.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos" ></p>
+  <p><img src="{{ '/images/voorbeelden/FolderTechnisch2.png' | relative_url }}" alt="Technische data folder" class="afbeeldingPos" ></p>
   </div>
 </div>
 
@@ -233,7 +233,7 @@ De nieuwsbrief is gemaakt via Mailchimp
 
 <div class="row">
   <div class="col-6">
- <p><img src="{{ '/images/voorbeelden/FlyerMockup.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
+ <p><img src="{{ '/images/voorbeelden/FlyerMockup.png' | relative_url }}" alt="FlyerMockup" class="w-100" ></p>
 </div>
   <div class="col-6">
 <p>De flyer wordt als promotionele flyer gebruikt. Deze kan uitgedeeld worden in het openbaar om reclame te maken voor Sampoorna Yoga. De flyer bevat een beknopte inhoud over hoe de yogastijl bij Sampoorna Yoga is en het geeft wat informatie over de lessen zoals wat je moet aandoen en wat je wel of niet moet meebrengen, waar je het zal vinden en de data van de lessen en wat de prijzen zijn. </p>
@@ -246,8 +246,8 @@ De nieuwsbrief is gemaakt via Mailchimp
 
 <blockquote>
 	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  148mm x 210mm 
-    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 118mm x 180mm)</small>
+    <br><u>Formaat:</u>  148 mm x 210 mm 
+    <br><u>Marges:</u> 15 mm <small>(een zetspiegel van 118 mm x 180 mm)</small>
     <br><u>Uitlijning tekst:</u> rechts <small>(recto)</small>, links <small>(verso, uitzondering op de quote)</small>
 		 <br><u>Recto:</u> Heeft de blauwe achtergrond
 		  <br><u>Verso:</u> Heeft de witte achtergrond
@@ -316,7 +316,7 @@ De nieuwsbrief is gemaakt via Mailchimp
 			<td>Medium</td>
 			<td>10 pt</td>
             <td>12 pt</td>
-            <td>Links inspringen: 10mm <br>Ruimte voor: 10mm<br>Wordt geplaatst in kapitalen </td>
+            <td>Links inspringen: 10 mm <br>Ruimte voor: 10 mm<br>Wordt geplaatst in kapitalen </td>
 		  </tr>
 			      <tr>
 			<th scope="row">7</th>
@@ -324,7 +324,7 @@ De nieuwsbrief is gemaakt via Mailchimp
 			<td>Regular</td>
 			<td>10 pt</td>
             <td>12 pt</td>
-            <td>Links inspringen: 10mm <br>Ruimte voor: 5mm<br></td>
+            <td>Links inspringen: 10 mm <br>Ruimte voor: 5 mm<br></td>
 		  </tr>
 			      <tr>
 			<th scope="row">8</th>
@@ -332,7 +332,7 @@ De nieuwsbrief is gemaakt via Mailchimp
 			<td>Regular</td>
 			<td>10 pt</td>
             <td>12 pt</td>
-            <td>Links inspringen: 20mm <br>Ruimte voor: 5mm<br>De tekst wordt in het blauw van de huisstijl gezet.
+            <td>Links inspringen: 20 mm <br>Ruimte voor: 5 mm<br>De tekst wordt in het blauw van de huisstijl gezet.
 						</td>
 		  </tr>
 		</tbody>
@@ -340,7 +340,7 @@ De nieuwsbrief is gemaakt via Mailchimp
 <br>
 <div class="row">
   <div class="col-6">
-  <p><img src="{{ '/images/voorbeelden/Flyer.png' | relative_url }}" alt="Responsive image" class="afbeeldingPos" ></p>
+  <p><img src="{{ '/images/voorbeelden/Flyer.png' | relative_url }}" alt="Flyer" class="afbeeldingPos" ></p>
   </div>
 </div>
 
@@ -377,7 +377,7 @@ De nieuwsbrief is gemaakt via Mailchimp
 			<td>Kader</td>
 			<td>80x140</td>
 			<td>10 pt</td>
-      <td>Lijn op <u>midden</u> uitgelijnd.<br>Het kader wordt in het midden geplaatst, uitgelijnd op de onderkant van de zetspiegel. <small>(51,5mm van de bovenkant van het blad)</small></td>
+      <td>Lijn op <u>midden</u> uitgelijnd.<br>Het kader wordt in het midden geplaatst, uitgelijnd op de onderkant van de zetspiegel. <small>(51,5 mm van de bovenkant van het blad)</small></td>
 		  </tr>
           <tr>
 			<th scope="row">4</th>
@@ -408,8 +408,8 @@ De nieuwsbrief is gemaakt via Mailchimp
 De factuur is opgesteld met het font Roboto. Dit is een officieel document dat nood had aan een minder speels font zoals Quicksand. 
 <blockquote>
 	<h4><u>Font:</u> Roboto
-    <br><u>Formaat:</u>  210mm x 297mm
-    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 180mm x 267mm)</small>
+    <br><u>Formaat:</u>  210 mm x 297 mm
+    <br><u>Marges:</u> 15 mm <small>(een zetspiegel van 180 mm x 267 mm)</small>
    <br><u>Uitlijning tekst:</u> zowel links als rechts <small>(getallen en gegevens Sampoorna Yoga)</small>
 		 </h4>
 </blockquote>
@@ -426,25 +426,33 @@ De banner is gemaakt om op te hangen aan het fietshokje net voor het huis. Zo is
 </blockquote>
 <br>
 
-<h2> Omslagbanner Facebook I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
-<blockquote>
-	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  2000 mm x 1000 mm 
-    <br><u>Marges:</u> 100 mm <small>(een zetspiegel van 1800 mm x 800 mm)</small>
-    <br><u>Uitlijning tekst:</u> gecentreerd
-		 <br><u>Logo</u> 600 mm hoog
-		  <br><u>Verso:</u> Heeft de witte achtergrond
-		 </h4>
-</blockquote>
-<br>
-<h2> Sticker I <a class="download" href="images/voorbeelden/Folder.pdf" target="_blank">download</a></h2>
-Stickers zijn altijd een leuk element om aan zaken toe te voegen. Deze stickers zijn om twee redenen ontworpen. de eerste reden is omdat ze leuk zijn en de tweede reden is omdat ze kunnen gebruiktt worden om het inpakpaier waarin de t-shirts worden ingepakt mee toe te plakken.
+<h2> Omslagbanner Facebook I <a class="download" href="https://drive.google.com/drive/folders/1VRJqEK-Ch5srAQpLhSFqjAoGj6PosZE5" target="_blank">download</a></h2>
+
+<div class="row">
+  <div class="col-6">
+ <p><img src="{{ '/images/voorbeelden/facebook-mockup.png' | relative_url }}" alt="facebook-mockup" class="w-100" ></p>
+</div>
+  <div class="col-6">
+ <p>De omslagbanner van de Facebookpagina van Sampoorna Yoga is simpel gehouden, maar geeft toch wat prijs van wat het inhoud. De omslag bevat het logo, een quote en afbeeldingen. Je ziet ook dat de tekst een 'speciaal geval' is. Deze kan je ook terugvinden op de pagina van de typografie. 
+</p>
+</div>
+</div>
+
 
 <blockquote>
 	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  150mm x 150mm <small>(gesloten)</small>   450mm x 150mm <small>(open)</small>
-    <br><u>Marges:</u> 15mm <small>(een zetspiegel van 120mm x 120mm)</small>
-    <br><u>Uitlijning tekst:</u> zowel links als rechts <small>(getallen en gegevens Sampoorna Yoga)</small>
+    <br><u>Formaat:</u>  851 px x 315 px
+    <br><u>Marges:</u> 10 mm
+    <br><u>Uitlijning tekst:</u> gecentreerd
+		 </h4>
+</blockquote>
+<br>
+<h2> Sticker I <a class="download" href="https://drive.google.com/drive/folders/1BOS5ofubZuHPID907sQfYzfXlik0BHI9" target="_blank">download</a></h2>
+Stickers zijn altijd een leuk element om aan zaken toe te voegen. Deze stickers zijn om twee redenen ontworpen. de eerste reden is omdat ze leuk zijn en de tweede reden is omdat ze kunnen gebruiktt worden om het inpakpapier waarin de t-shirts worden ingepakt mee toe te plakken.
+
+<blockquote>
+	<h4><u>Font:</u> Quicksand
+    <br><u>Formaat:</u>  37,2 mm x 60 mm 
 		 </h4>
 </blockquote>
 <br>
@@ -454,7 +462,7 @@ De t-shirts zijn  niet enkel gemaakt voor de leden van Sampoorna Yoga, maar voor
 
 <blockquote>
 	<h4><u>Font:</u> Quicksand
-    <br><u>Formaat:</u>  300mm x 300mm <small>(Dit is het formaat van de tekstkader)</small>
+    <br><u>Formaat:</u>  300 mm x 300 mm <small>(Dit is het formaat van de tekstkader)</small>
     <br><u>Uitlijning tekst:</u> gecentreerd
 		 </h4>
 </blockquote>
@@ -462,9 +470,9 @@ De t-shirts zijn  niet enkel gemaakt voor de leden van Sampoorna Yoga, maar voor
 
 <div class="row">
   <div class="col-6">
- <p><img src="{{ '/images/voorbeelden/Shirt-Mockup1.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
+ <p><img src="{{ '/images/voorbeelden/Shirt-Mockup1.png' | relative_url }}" alt="Shirt-Mockup1" class="w-100" ></p>
 </div>
   <div class="col-6">
- <p><img src="{{ '/images/voorbeelden/Shirt-Mockup.png' | relative_url }}" alt="Responsive image" class="w-100" ></p>
+ <p><img src="{{ '/images/voorbeelden/Shirt-Mockup.png' | relative_url }}" alt="Shirt-Mockup1" class="w-100" ></p>
 </div>
 </div>
